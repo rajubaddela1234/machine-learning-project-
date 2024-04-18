@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/7d8f8f3c329f4f518e12151a593af884/artifacts
+end_time: 1713423341639
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d8f8f3c329f4f518e12151a593af884
+run_name: carefree-grub-707
+run_uuid: 7d8f8f3c329f4f518e12151a593af884
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713423335553
+status: 3
+tags: []
+user_id: HP
